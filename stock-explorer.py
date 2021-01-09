@@ -305,7 +305,7 @@ elif fundamentals:
     more_data = st.button('Aktienindizes durchsuchen')
     st.write('Abfragedauer ca 1 Minute. Nach Ladevorgang: Klick auf Spalten um Werte zu sortieren')
     if more_data:
-        get_all_tickers = st.selectbox('Aktien Index auswählen',list_of_markets,)
+        get_all_tickers = st.selectbox('Aktien Index auswählen',list_of_markets)
         get_stocks(get_all_tickers)
     
 
