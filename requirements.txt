@@ -1,0 +1,64 @@
+
+# aitrading/stock-explorer.py: 10
+altair == 4.1.0
+
+
+# aitrading/.ipynb_checkpoints/AI Trading Notes-checkpoint.ipynb: 3
+# aitrading/AI Trading Notes.ipynb: 3
+# aitrading/stock-explorer.py: 7,8,9
+matplotlib == 3.3.0
+
+# aitrading/.ipynb_checkpoints/AI Trading_Part_II-checkpoint.ipynb: 427,429,431,440,451
+# aitrading/.ipynb_checkpoints/text_processing-checkpoint.ipynb: 72,77,82,88,102,121,126
+# aitrading/AI Trading_Part_II.ipynb: 427,429,431,440,451
+# aitrading/process_tweets_solution.ipynb: 25,27,34,46,58,68
+# aitrading/text_processing.ipynb: 72,77,82,88,102,121,126
+nltk == 3.5
+
+# aitrading/.ipynb_checkpoints/AI Trading Notes-checkpoint.ipynb: 2,94
+# aitrading/.ipynb_checkpoints/AI Trading_Part_II-checkpoint.ipynb: 343,387,426
+# aitrading/AI Trading Notes.ipynb: 2,94
+# aitrading/AI Trading_Part_II.ipynb: 343,387,426
+# aitrading/project_tests.py: 3
+# aitrading/stock-explorer.py: 4
+# aitrading/tests.py: 5
+# aitrading/time series data resampling.ipynb: 1
+numpy == 1.19.1
+
+# aitrading/.ipynb_checkpoints/AI Trading Notes-checkpoint.ipynb: 1,95
+# aitrading/.ipynb_checkpoints/AI Trading_Part_II-checkpoint.ipynb: 342,386
+# aitrading/.ipynb_checkpoints/text_processing-checkpoint.ipynb: 7
+# aitrading/AI Trading Notes.ipynb: 1,95
+# aitrading/AI Trading_Part_II.ipynb: 342,386
+# aitrading/applying_regexes_10ks_solution.ipynb: 38
+# aitrading/helper.py: 1
+# aitrading/project_tests.py: 2
+# aitrading/stock-explorer.py: 6
+# aitrading/tests.py: 4
+# aitrading/text_processing.ipynb: 7
+# aitrading/time series data resampling.ipynb: 2
+# aitrading/top_and_bottom_performing.ipynb: 1
+# aitrading/top_and_bottom_performing_solution.ipynb: 1
+pandas == 1.1.0
+
+# aitrading/stock-explorer.py: 5
+pandas_datareader == 0.9.0
+
+# aitrading/project_helper.py: 2,3
+plotly == 4.14.1
+
+# aitrading/stock-explorer.py: 12
+pytickersymbols == 1.4.0
+
+# aitrading/.ipynb_checkpoints/AI Trading_Part_II-checkpoint.ipynb: 340,385
+# aitrading/.ipynb_checkpoints/text_processing-checkpoint.ipynb: 16,28
+# aitrading/AI Trading_Part_II.ipynb: 340,385
+# aitrading/applying_regexes_10ks_solution.ipynb: 2
+# aitrading/helper.py: 8
+# aitrading/text_processing.ipynb: 16,28
+requests == 2.24.0
+
+
+
+# aitrading/stock-explorer.py: 1
+streamlit == 0.74.1
