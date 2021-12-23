@@ -42,7 +42,7 @@ numpy == 1.19.1
 pandas == 1.1.0
 
 # aitrading/stock-explorer.py: 5
-pandas_datareader == 0.9.0
+pandas_datareader == 0.10.0
 
 # aitrading/project_helper.py: 2,3
 plotly == 4.14.1
