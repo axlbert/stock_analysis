@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from matplotlib import style
 import matplotlib as mpl
 import altair as alt
-import yfinance as yf
+#import yfinance as yf
 #yf.pdr_override()
 ###https://github.com/ranaroussi/yfinance
 
